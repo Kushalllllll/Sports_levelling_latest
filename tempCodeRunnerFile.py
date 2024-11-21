@@ -1,0 +1,2 @@
+loginButton=Button(Swin,text='LOGIN',font=("Aharoni",15,"bold"),fg='white',bg='royalblue',activeforeground='white',activebackground='deepskyblue',cursor='hand2',bd=1,width=25,command=login_page)
+loginButton.place(x=245,y=350)

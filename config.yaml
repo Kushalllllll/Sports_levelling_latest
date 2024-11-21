@@ -1,0 +1,7 @@
+train: C:\Codes\Python\DTI_Project\train
+val: C:\Codes\Python\DTI_Project\valid
+test: C:\Codes\Python\DTI_Project\test
+
+
+nc: 2
+names: ['Basketball', 'Basketball Hoop']
